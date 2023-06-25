@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=DB? NewDesignator=DB1
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetDB?_2 New Net Name=NetDB1_2
+Change Net Name : Old Net Name=NetDB?_4 New Net Name=NetDB1_4
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR22_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=D3-2
+Added Pin To Net: NetName=NetC12_1 Pin=R22-2
+Added Net: Name=NetC12_1
+Added Member To Class: ClassName=Power Member=Component C13 Capacitor C SMD 1206
+Added Member To Class: ClassName=Power Member=Component R22 Resistor THD
+Added Member To Class: ClassName=Power Member=Component R24 Resistor SMD 1206
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

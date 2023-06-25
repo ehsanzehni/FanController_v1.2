@@ -1,0 +1,85 @@
+Added Component: Designator=C10(VISH-BFC233820104-2_V)
+Added Component: Designator=C11(VISH-BFC233820104-2_V)
+Added Component: Designator=D1(FP-6_560-5006_01-4-MFG)
+Added Component: Designator=K1(PNSC-LD-P-4-2050x720x1530_V)
+Added Component: Designator=LS1(FP-SD1614T5-B1-MFG)
+Added Component: Designator=P2(691312510002)
+Added Component: Designator=P3(691312510002)
+Added Component: Designator=P4(691312510002)
+Added Component: Designator=R11(RESA86-1060X240)
+Added Component: Designator=R15(RESA86-1060X240)
+Added Component: Designator=R16(RESA86-1060X240)
+Added Component: Designator=R20(RESA86-1060X240)
+Added Component: Designator=R24(RESA86-1060X240)
+Added Component: Designator=R26(FP-B72205S0-MFG)
+Added Component: Designator=SW1(430156043726)
+Added Component: Designator=SW2(430156043726)
+Added Component: Designator=U2(SOT-89_L)
+Added Component: Designator=U4(LTST-DIP-6)
+Added Component: Designator=Y1(FOX-FOXSLF160-20)
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin K1-2
+Add Pin To Net: Unknown Pin: Pin K1-3
+Add Pin To Net: Unknown Pin: Pin K1-4
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Class Member: Failed to add class member : Component C10
+Add Class Member: Failed to add class member : Component C11
+Add Class Member: Failed to add class member : Component D1 LS4148-GS18
+Add Class Member: Failed to add class member : Component K1 ALDP109W
+Add Class Member: Failed to add class member : Component LS1
+Add Class Member: Failed to add class member : Component P2
+Add Class Member: Failed to add class member : Component P3
+Add Class Member: Failed to add class member : Component P4
+Add Class Member: Failed to add class member : Component R11
+Add Class Member: Failed to add class member : Component R15 47K
+Add Class Member: Failed to add class member : Component R16 47K
+Add Class Member: Failed to add class member : Component R20
+Add Class Member: Failed to add class member : Component R24 12FR050E
+Add Class Member: Failed to add class member : Component R26 B72205S0271K101
+Add Class Member: Failed to add class member : Component SW1
+Add Class Member: Failed to add class member : Component SW2 430156043726
+Add Class Member: Failed to add class member : Component U2 L78L05ABUTR
+Add Class Member: Failed to add class member : Component U4 MOC3063
+Add Class Member: Failed to add class member : Component Y1 FOXSLF/160-20

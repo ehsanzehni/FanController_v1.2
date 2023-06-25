@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=D6-1
+Removed Pin From Net: NetName=GND Pin=D6-2
+Added Component: Designator=D6(LED THD 3mm (Green))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

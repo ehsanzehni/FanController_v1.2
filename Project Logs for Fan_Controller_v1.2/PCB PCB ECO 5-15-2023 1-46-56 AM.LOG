@@ -1,0 +1,18 @@
+Added Component: Designator=DB1(DBRG_DIPSMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DF04S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC15_1 Pin=DB1-1
+Added Pin To Net: NetName=GND Pin=DB1-2
+Added Pin To Net: NetName=NetDB1_3 Pin=DB1-3
+Added Pin To Net: NetName=NetDB1_3 Pin=R25-2
+Added Net: Name=NetDB1_3
+Added Pin To Net: NetName=NetDB1_4 Pin=DB1-4
+Added Pin To Net: NetName=NetDB1_4 Pin=VR1-2
+Added Net: Name=NetDB1_4
+Added Member To Class: ClassName=Power Member=Component DB1 Diode Bridge SMD

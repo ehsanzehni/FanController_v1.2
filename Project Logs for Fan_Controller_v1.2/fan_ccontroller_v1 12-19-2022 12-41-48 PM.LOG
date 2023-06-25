@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=Q1 Old Footprint=TO252 New Footprint=TO220
+Added Member To Class: ClassName=Fan_Feedback Member=Component Conn Telecommunications_4pin
+Added Member To Class: ClassName=Fan_Feedback Member=Component Conn Telecommunications_4pin
+Added Member To Class: ClassName=Sensors Member=Component Conn Telecommunications_3pin
+Added Member To Class: ClassName=Sensors Member=Component Conn Telecommunications_3pin
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

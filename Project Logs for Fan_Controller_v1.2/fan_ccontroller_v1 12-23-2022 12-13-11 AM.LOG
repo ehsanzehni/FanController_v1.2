@@ -1,0 +1,99 @@
+Added Component: Designator=C25(VISH-BFC233820104-2_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/- 20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/28119/mkp3382.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.vishay.com/docs/28119/mkp3382.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jul-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin THD, Body 12.5 x 6 mm, Height 12 mm, Pitch 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BFC233820104-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BFC233820104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Permisssible DC Voltage"; Value = "630 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated AC Voltage"; Value = "310 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Pulse Slope"; Value = "600 V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Component: Designator=R24(SMD-1206-RES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESA86-1060X240)
+Add component (AddParameter): Name = "Bandwidth"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "65 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ohmite.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ohmite.com/cat/res_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Dual Supply Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Gain Bandwith Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.2 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Voltage Gain"; Value = "100 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 10.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "12FR050E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.3 V\us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(430156043726)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4301x6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "430156043726"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "430156043726"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetK1_3 Pin=R25-2
+Added Pin To Net: NetName=+5 Pin=SW2-1
+Added Pin To Net: NetName=+5 Pin=SW2-3
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R25-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=K1-2
+Added Pin To Net: NetName=NetC25_2 Pin=P3-2
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=SW1 Pin=R24-2
+Added Pin To Net: NetName=SW1 Pin=SW2-2
+Added Pin To Net: NetName=SW1 Pin=SW2-4
+Added Pin To Net: NetName=SW1 Pin=U1-1
+Added Net: Name=SW1
+Added Member To Class: ClassName=Relay_Alert Member=Component C25 BFC233820104
+Added Member To Class: ClassName=Fan_Feedback Member=Component Conn Telecommunications_4pin
+Added Member To Class: ClassName=Fan_Feedback Member=Component Conn Telecommunications_4pin
+Added Member To Class: ClassName=Sensors Member=Component Conn Telecommunications_3pin
+Added Member To Class: ClassName=Sensors Member=Component Conn Telecommunications_3pin
+Added Member To Class: ClassName=Micro_Controller Member=Component R24 Resistor SMD 1206
+Added Member To Class: ClassName=Relay_Alert Member=Component R25 12FR050E
+Added Member To Class: ClassName=Micro_Controller Member=Component SW2 430156043726

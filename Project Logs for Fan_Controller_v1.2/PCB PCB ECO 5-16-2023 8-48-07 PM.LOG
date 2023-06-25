@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetDB1_4 Pin=Designator51-1
+Removed Pin From Net: NetName=NetDB1_4 Pin=Designator51-2
+Added Component: Designator=P9(HDR 1X2)
+Add component (AddParameter): Name = "ComponentLinkp-URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2020"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=U1-31
+Added Net: Name=NetP9_1
+Added Member To Class: ClassName=Relay_Alert Member=Component K1 RELAY SPST 5 Pin Bache Millon
+Added Member To Class: ClassName=Micro_Controller Member=Component P9 Header 2
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

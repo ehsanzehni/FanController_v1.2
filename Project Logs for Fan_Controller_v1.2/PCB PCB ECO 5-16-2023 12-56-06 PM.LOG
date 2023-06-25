@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=OP1 Pin=Designator33-1
+Removed Pin From Net: NetName=OP1 Pin=Designator33-2
+Removed Pin From Net: NetName=SW1 Pin=Designator34-1
+Removed Pin From Net: NetName=SW1 Pin=Designator34-2
+Removed Pin From Net: NetName=ERROR_LED Pin=Designator35-1
+Removed Pin From Net: NetName=ERROR_LED Pin=Designator35-2
+Removed Pin From Net: NetName=SCK Pin=Designator40-1
+Removed Pin From Net: NetName=SCK Pin=Designator40-2
+Removed Pin From Net: NetName=MISO Pin=Designator41-1
+Removed Pin From Net: NetName=MISO Pin=Designator41-2
+Removed Pin From Net: NetName=MOSI Pin=Designator44-1
+Removed Pin From Net: NetName=MOSI Pin=Designator44-2
+Removed Pin From Net: NetName=NetC23_2 Pin=U1-23
+Removed Pin From Net: NetName=NetC24_2 Pin=U1-24
+Added Pin To Net: NetName=NetC24_2 Pin=U1-23
+Added Pin To Net: NetName=NetC23_2 Pin=U1-24
+Added Member To Class: ClassName=Micro_Controller Member=Component L1 Inductor SMD NC 1206
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

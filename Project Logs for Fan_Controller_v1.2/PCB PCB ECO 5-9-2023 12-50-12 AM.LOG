@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetConn1_4 Pin=OP1-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=FAN_PWM_IN Pin=R4-2
+Removed Pin From Net: NetName=NetP2_2 Pin=R11-1
+Removed Pin From Net: NetName=NetP4_2 Pin=R15-1
+Removed Member From Class: ClassName=Motor_Controller Member=R11
+Removed Member From Class: ClassName=Motor_Controller Member=R15
+Added Component: Designator=R?(SMD-1206-RES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_555 Pin=OP1-2
+Added Pin To Net: NetName=NetConn1_4 Pin=R3-2
+Added Pin To Net: NetName=FAN_PWM_IN Pin=R?-2
+Added Pin To Net: NetName=NetOP1_1 Pin=OP1-1
+Added Pin To Net: NetName=NetOP1_1 Pin=R3-1
+Added Net: Name=NetOP1_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R?-1
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=Micro_Controller Member=Component R? Resistor SMD 1206

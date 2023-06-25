@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetP2_2 Pin=DB1-4
+Added Pin To Net: NetName=NetDB1_3 Pin=VR1-2
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetDB1_4
+Added Member To Class: ClassName=Power Member=Component DB1 Diode Bridge SMD
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

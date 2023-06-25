@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND_555 Pin=Conn2-1
+Removed Pin From Net: NetName=+12_555 Pin=Conn2-2
+Removed Pin From Net: NetName=NetConn1_4 Pin=Conn2-4
+Removed Pin From Net: NetName=GND_555 Pin=Conn3-1
+Removed Pin From Net: NetName=+12_555 Pin=Conn3-2
+Removed Pin From Net: NetName=NetConn1_4 Pin=Conn3-4
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

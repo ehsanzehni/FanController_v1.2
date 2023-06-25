@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Power Member=U6
+Added Member To Class: ClassName=Power Member=Component 7805 7805CV
+Added Member To Class: ClassName=Motor_Controller Member=Component C10 Capacitor Polyester THD
+Added Member To Class: ClassName=Relay_Alert Member=Component C11 Capacitor Polyester THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R11 Resistor THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R15 Resistor THD
+Added Member To Class: ClassName=Relay_Alert Member=Component R16 Resistor THD
+Added Member To Class: ClassName=Power Member=Component R20 Resistor THD

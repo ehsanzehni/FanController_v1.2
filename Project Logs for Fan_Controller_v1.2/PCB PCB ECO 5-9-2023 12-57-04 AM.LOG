@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetP4_2 Pin=R20-1
+Removed Member From Class: ClassName=Power Member=R20
+Added Member To Class: ClassName=Micro_Controller Member=Component R? Resistor SMD 1206
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD

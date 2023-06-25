@@ -1,0 +1,99 @@
+Removed Member From Class: ClassName=Power Member=C13
+Removed Member From Class: ClassName=Power Member=C14
+Removed Member From Class: ClassName=Power Member=CX1
+Removed Member From Class: ClassName=Power Member=D2
+Removed Member From Class: ClassName=Power Member=DZ1
+Removed Member From Class: ClassName=Power Member=DZ2
+Removed Member From Class: ClassName=Power Member=R22
+Added Component: Designator=C?(C1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_EL_6X11)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uf"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res-(1/4))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res-(1/4))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(SMD-1206-RES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PI-DIP-8B)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/328/lnk302_304-306-179954.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. J, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input voltage"; Value = "85...265VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Power Integrations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.power.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8B(7-lead)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "7-Pin Double In-line Package, Body 6.35 x 9.575 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DIP-8B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Flyback"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+12 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+12 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=DB?-3
+Added Pin To Net: NetName=+12 Pin=L3-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=NetC16_1 Pin=U?-5
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D5-2
+Added Pin To Net: NetName=NetC?_2 Pin=L3-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-7
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Power Member=Component C? Capacitor C SMD 1206
+Added Member To Class: ClassName=Power Member=Component C? Capacitor Electrical THD
+Added Member To Class: ClassName=Power Member=Component R? Resistor THD
+Added Member To Class: ClassName=Power Member=Component R? Resistor THD
+Added Member To Class: ClassName=Power Member=Component R? Resistor SMD 1206
+Added Member To Class: ClassName=Power Member=Component U? LNK306PN

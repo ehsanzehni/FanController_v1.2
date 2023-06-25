@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Buzz1-2
+Removed Pin From Net: NetName=+5 Pin=Q3-2
+Removed Member From Class: ClassName=Relay_Alert Member=Buzz1
+Removed Member From Class: ClassName=Relay_Alert Member=Q3
+Removed Member From Class: ClassName=Relay_Alert Member=R21
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

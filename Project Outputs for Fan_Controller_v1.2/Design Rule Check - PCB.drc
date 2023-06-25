@@ -1,0 +1,146 @@
+Protel Design System Design Rule Check
+PCB File : D:\projects\altum\Fan_Controller_v1.2\Fan_Controller_v1.2\PCB.PcbDoc
+Date     : 5/17/2023
+Time     : 3:07:41 PM
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_L02_P005')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_L02_P005')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_L02_P005')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (InNamedPolygon('GND_555_L02_P003')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_555_L02_P003')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (InNamedPolygon('GND_L02_P007')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_L02_P007')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_L02_P007')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_L02_P007')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNamedPolygon('GND_L02_P007')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_555_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_555_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNamedPolygon('GND_555_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNamedPolygon('GND_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_555_L02_P003')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_555_L02_P003')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('NONET_L01_P002')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNamedPolygon('GND_555_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_555_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETP4_2_L02_P018')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P010')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETP2_1_L02_P008')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P011')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P013')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETC11_2_L02_P017')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETP4_2_L02_P018')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETC11_2_L02_P017')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_555_L01_P021')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.7mm) (InNamedPolygon('GND_L01_P020')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P010')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P013')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNamedPolygon('NETDB1_4_L02_P011')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetDB1_4 Between Track (8.226mm,35.531mm)(8.763mm,36.068mm) on Bottom Layer And Pad Designator55-2(8.763mm,46.228mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net RESET Between Pad S1-2(21.173mm,97.461mm) on Multi-Layer And Pad S1-1(21.173mm,103.961mm) on Multi-Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=3mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.001mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02

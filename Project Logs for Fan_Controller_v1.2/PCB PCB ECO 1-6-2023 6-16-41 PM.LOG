@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=P3-1
+Removed Pin From Net: NetName=NetP2_2 Pin=P3-2
+Added Pin To Net: NetName=NetP2_2 Pin=P3-1
+Added Pin To Net: NetName=NetC11_2 Pin=P3-2
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

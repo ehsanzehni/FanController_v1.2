@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=R20 Old Footprint=SMD-2512-RES New Footprint=Resistor_3W
+Change Component Comment : Designator=R20 Old Comment=Resistor SMD 2512 New Comment=Resistor THD
+Change component parameters: Designator = "R20" ("R20"); Footprint = "SMD-2512-RES"; UniqueID = "\HLZZWHAW" ("\HLZZWHAW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component C12 Capacitor Electrical THD
+Added Member To Class: ClassName=Power Member=Component R20 Resistor THD
+Added Member To Class: ClassName=Power Member=Component R23 Resistor THD
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

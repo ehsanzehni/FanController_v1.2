@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Micro_Controller Member=R?
+Removed Member From Class: ClassName=Power Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Added Component: Designator=7805(TO220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=7805-1
+Added Pin To Net: NetName=GND Pin=7805-2
+Added Pin To Net: NetName=+5 Pin=7805-3
+Added Member To Class: ClassName=Power Member=Component 7805 7805CV
+Added Member To Class: ClassName=Micro_Controller Member=Component R11 Resistor SMD 1206
+Added Member To Class: ClassName=Motor_Controller Member=Component R20 Resistor THD
+Added Member To Class: ClassName=Power Member=Component R25 Resistor THD

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=OP1 Pin=-1
+Removed Pin From Net: NetName=OP1 Pin=-2
+Removed Pin From Net: NetName=ERROR_LED Pin=Designator30-1
+Removed Pin From Net: NetName=ERROR_LED Pin=Designator30-2
+Removed Pin From Net: NetName=SW1 Pin=Designator31-1
+Removed Pin From Net: NetName=SW1 Pin=Designator31-2
+Removed Pin From Net: NetName=ERROR_LED Pin=U1-30
+Added Component: Designator=R14(SMD-1206-RES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=ERROR_LED Pin=U1-2
+Added Member To Class: ClassName=Power Member=Component 7805 7805CV
+Added Member To Class: ClassName=Motor_Controller Member=Component R14 Resistor SMD 1206
+Added Member To Class: ClassName=Micro_Controller Member=Component S1 SW_PB4 THD
+Added Member To Class: ClassName=Micro_Controller Member=Component Y1 Crystal
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

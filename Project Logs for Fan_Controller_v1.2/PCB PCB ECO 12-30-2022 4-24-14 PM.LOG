@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+12 Pin=7805-1
+Removed Pin From Net: NetName=GND Pin=7805-2
+Removed Pin From Net: NetName=+5 Pin=7805-3
+Added Member To Class: ClassName=Motor_Controller Member=Component C10 Capacitor Polyester THD
+Added Member To Class: ClassName=Relay_Alert Member=Component C11 Capacitor Polyester THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R11 Resistor THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R15 Resistor THD
+Added Member To Class: ClassName=Relay_Alert Member=Component R16 Resistor THD
+Added Member To Class: ClassName=Power Member=Component R20 Resistor THD
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

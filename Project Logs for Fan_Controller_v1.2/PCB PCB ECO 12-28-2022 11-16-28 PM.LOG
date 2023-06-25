@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+5 Pin=C21-2
+Removed Member From Class: ClassName=Fan_Feedback Member=U2
+Change Component Footprint: Designator=C21 Old Footprint=C_EL_4_4 New Footprint=C_EL_4X7
+Change Component Comment : Designator=C21 Old Comment=Capacitor Electrical SMD New Comment=Capacitor Electrical THD
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C_EL_4_4"; UniqueID = "\XXXRASZS" ("\XXXRASZS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Room: Name=Sensors

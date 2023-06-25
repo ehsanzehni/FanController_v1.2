@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=R11 Old Footprint=R2W_AX_VER New Footprint=SMD-2512-RES
+Change Component Footprint: Designator=R15 Old Footprint=R2W_AX_VER New Footprint=SMD-2512-RES
+Change Component Footprint: Designator=R20 Old Footprint=R2W_AX_VER New Footprint=SMD-2512-RES
+Change Component Comment : Designator=R11 Old Comment=Resistor THD New Comment=Resistor SMD 2512
+Change Component Comment : Designator=R15 Old Comment=Resistor THD New Comment=Resistor SMD 2512
+Change Component Comment : Designator=R20 Old Comment=Resistor THD New Comment=Resistor SMD 2512
+Change component parameters: Designator = "R20" ("R20"); Footprint = "R2W_AX_VER"; UniqueID = "\VUBQWIBC" ("\VUBQWIBC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

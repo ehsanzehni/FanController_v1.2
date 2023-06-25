@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=U5-1
+Removed Pin From Net: NetName=NetC13_2 Pin=U5-2
+Removed Pin From Net: NetName=NetCX1_1 Pin=U5-3
+Removed Pin From Net: NetName=NetC13_1 Pin=U5-4
+Removed Pin From Net: NetName=NetC16_1 Pin=U5-5
+Removed Pin From Net: NetName=NetC16_1 Pin=U5-6
+Removed Pin From Net: NetName=NetC16_1 Pin=U5-7
+Removed Pin From Net: NetName=NetC16_1 Pin=U5-8
+Removed Member From Class: ClassName=Power Member=U5
+Added Component: Designator=U?(STM-DIP-8)
+Add component (AddParameter): Name = "BVDSS"; Value = "730 V Min."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00087939.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00087939.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coss"; Value = "40 pF Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FOSC"; Value = "60 KHz Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDSS"; Value = "0.1 mA Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Dual In-line Package , Body 9.27 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "VIPer22ADIP-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tf"; Value = "100 ns Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tr"; Value = "50 ns Typ."; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component U? VIPer22ADIP-E
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

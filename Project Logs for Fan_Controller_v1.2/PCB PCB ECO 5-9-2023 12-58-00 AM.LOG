@@ -1,0 +1,17 @@
+Added Component: Designator=R?(R2W_AX08)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP4_2 Pin=R?-1
+Added Pin To Net: NetName=NetDB1_2 Pin=DB1-2
+Added Pin To Net: NetName=NetDB1_2 Pin=R?-2
+Added Net: Name=NetDB1_2
+Added Member To Class: ClassName=Micro_Controller Member=Component R? Resistor SMD 1206
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD
+Added Member To Class: ClassName=Power Member=Component R? Resistor THD

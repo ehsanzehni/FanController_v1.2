@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+12 Pin=7805-1
+Removed Pin From Net: NetName=GND Pin=7805-2
+Removed Pin From Net: NetName=+5 Pin=7805-3
+Removed Member From Class: ClassName=Power Member=7805
+Added Member To Class: ClassName=Micro_Controller Member=Component R? Resistor SMD 1206
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD
+Added Member To Class: ClassName=Motor_Controller Member=Component R? Resistor THD
+Added Member To Class: ClassName=Power Member=Component R? Resistor THD
+Added Room: Name=Sensors

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetP2_2 Pin=R15-1
+Removed Pin From Net: NetName=NetP4_2 Pin=R20-1
+Removed Member From Class: ClassName=Motor_Controller Member=R11
+Added Pin To Net: NetName=NetP4_2 Pin=R15-1
+Added Pin To Net: NetName=NetP2_2 Pin=R20-1
+Added Member To Class: ClassName=Power Member=Component 7805 7805CV
+Added Member To Class: ClassName=Motor_Controller Member=Component R15 Resistor THD
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

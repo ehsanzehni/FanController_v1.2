@@ -1,0 +1,11 @@
+Added Component: Designator=Sink2(heatsink (4))
+Added Member To Class: ClassName=Power Member=Component C18 Capacitor C SMD 1206
+Added Member To Class: ClassName=Power Member=Component C19 Capacitor Electrical THD
+Added Member To Class: ClassName=Power Member=Component L3 Inductor THD
+Added Member To Class: ClassName=Power Member=Component Sink2 sink?
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors

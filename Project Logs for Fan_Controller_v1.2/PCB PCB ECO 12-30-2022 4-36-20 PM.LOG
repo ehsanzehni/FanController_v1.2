@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+12 Pin=D1-2
+Added Pin To Net: NetName=+12 Pin=K1-4
+Added Room: Name=Fan_Feedback
+Added Room: Name=Micro_Controller
+Added Room: Name=Motor_Controller
+Added Room: Name=Power
+Added Room: Name=Relay_Alert
+Added Room: Name=Sensors
