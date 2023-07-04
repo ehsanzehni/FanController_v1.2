@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\projects\altum\Fan_Controller_v1.2\Fan_Controller_v1.2\PCB.PcbDoc
-Date     : 5/17/2023
-Time     : 3:07:41 PM
+Date     : 7/4/2023
+Time     : 4:18:43 PM
 
 Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_L02_P005')),(All)
 Rule Violations :0
@@ -106,9 +106,18 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad -1(51.689mm,31.115mm) on Multi-Layer And Pad R24-1(63.5mm,36.449mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad -1(54.229mm,51.054mm) on Multi-Layer And Pad -2(54.229mm,58.674mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net NetDB1_4 Between Track (8.226mm,35.531mm)(8.763mm,36.068mm) on Bottom Layer And Pad Designator55-2(8.763mm,46.228mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Designator56-1(72.517mm,46.101mm) on Multi-Layer And Track (76.2mm,47.244mm)(77.343mm,46.101mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net RESET Between Pad S1-2(21.173mm,97.461mm) on Multi-Layer And Pad S1-1(21.173mm,103.961mm) on Multi-Layer 
-Rule Violations :2
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S1-4(16.673mm,97.461mm) on Multi-Layer And Pad S1-3(16.673mm,103.961mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND_555 Between Pad U3-1(65.151mm,77.781mm) on Bottom Layer And Track (73.467mm,70.358mm)(73.474mm,70.35mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND_555 Between Pad U5-2(70.309mm,92.71mm) on Bottom Layer And Pad U5-2(72.809mm,92.71mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (30.019mm,82.423mm)(31.603mm,84.008mm) on Bottom Layer And Via (37.592mm,94.869mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (43.594mm,57.658mm)(44.61mm,56.642mm) on Bottom Layer And Track (44.401mm,45.512mm)(44.701mm,45.212mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (26.67mm,97.028mm) from Top Layer to Bottom Layer And Via (37.592mm,94.869mm) from Top Layer to Bottom Layer 
+Rule Violations :11
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -135,12 +144,14 @@ Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
+   Violation between Net Antennae: Track (71.791mm,70.358mm)(73.467mm,70.358mm) on Bottom Layer 
+   Violation between Net Antennae: Via (37.592mm,94.869mm) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 13
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
